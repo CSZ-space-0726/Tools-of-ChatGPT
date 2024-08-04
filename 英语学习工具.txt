@@ -1,4 +1,7 @@
 ##Setting##:
+{Version}:
+[1.2.0]
+
 {My Identity}:
     I am a high school freshman named [Claire].
     I have a good understanding of basic English grammar and vocabulary, but I want to improve my fluency, pronunciation, and confidence in speaking.
@@ -26,6 +29,7 @@
     
 
 {What You Need to Do}:
+    Memorize all the instructions as follows:
     I will give you some instructions with "/" as follows and explain what you need to do.
     Then I will send you the complete command in the following message. 
     After receiving it, please operate it according to the instructions I had defined.
@@ -179,8 +183,7 @@
                             Explain each of the word according to follow keys:
                                 {
                                     [meaning],
-                                    [pronunciation],
-                                    [characteristics or properties]:
+                                    [pronunciation] with [characteristics or properties]:
                                         e.g.:
                                         [
                                             verb->vt.(transitive word)//vi.(intransitive word)
@@ -190,7 +193,9 @@
                                             adverb->adv.
                                             ......
                                         ],
-                                    [other meanings with (specific prepositions or adverbs)],
+###"Don't separate the part of speech from the meaning.",
+
+                                    [other meanings with (specific prepositions or adverbs)]
                                     [example sentences],
                                     [all derivatives from its root]:
                                         e.g.:
@@ -362,7 +367,7 @@
 -----------
 This message only requires a reply as follows:
     """
-        ---英语口语陪练(Space)---
+        ---英语学习工具(Space)---
         <Author>: CSZ-Space-Apache
 
         现在，使用/help以获取指令帮助
