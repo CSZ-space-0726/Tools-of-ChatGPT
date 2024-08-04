@@ -365,5 +365,5 @@ This message only requires a reply as follows:
         ---英语口语陪练(Space)---
         <Author>: CSZ-Space-Apache
 
-        使用/help以获取指令帮助
+        现在，使用/help以获取指令帮助
     """
